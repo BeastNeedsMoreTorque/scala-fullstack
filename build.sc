@@ -9,7 +9,7 @@ import coursier.maven.MavenRepository
 object Config {
   def scalaVersion = "2.12.7"
   def scalaJSVersion = "0.6.25"
-  def laminarVersion = "0.4"
+  def laminarVersion = "0.5"
   def covenantVersion = "master-SNAPSHOT"
   def akkaHttpVersion = "10.1.5"
   def akkaStreamVersion = "2.5.12"
