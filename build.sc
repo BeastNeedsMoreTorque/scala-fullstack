@@ -8,11 +8,11 @@ import coursier.maven.MavenRepository
 
 object Config {
   def scalaVersion = "2.12.7"
-  def scalaJSVersion = "0.6.25"
-  def laminarVersion = "0.5"
+  def scalaJSVersion = "0.6.26"
+  def laminarVersion = "0.6"
   def covenantVersion = "master-SNAPSHOT"
-  def akkaHttpVersion = "10.1.5"
-  def akkaStreamVersion = "2.5.12"
+  def akkaHttpVersion = "10.1.7"
+  def akkaStreamVersion = "2.5.19"
   def boopickleVersion = "1.3.0"
 
   def sharedDependencies = Agg(
